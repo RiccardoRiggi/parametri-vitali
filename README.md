@@ -5,7 +5,7 @@ Applicazione mobile multipiattaforma sviluppata in Flutter e Dart che permette d
 
 ## Anteprima
 
-![Schermata principale](https://raw.githubusercontent.com/RiccardoRiggi/parametri-vitali/master/preview/anteprima.png)
+![Schermata principale](https://raw.githubusercontent.com/RiccardoRiggi/parametri-vitali/main/preview/anteprima.png)
 
 
 ## Licenza
