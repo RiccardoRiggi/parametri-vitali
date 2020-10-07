@@ -1,0 +1,1 @@
+# parametri-vitali
